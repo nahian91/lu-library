@@ -94,36 +94,12 @@
       <!-- End: Footer -->
       <!-- jQuery Latest Version 1.x -->
       <script type="text/javascript" src="assets/js/jquery-1.12.4.js"></script>
-      <!-- jQuery UI -->
-      <script type="text/javascript" src="assets/js/jquery-ui.js"></script>
-      <!-- jQuery Easing -->
-      <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
       <!-- Bootstrap -->
       <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
       <!-- Mobile Menu -->
       <script type="text/javascript" src="assets/js/mmenu.js"></script>
-      <!-- Harvey - State manager for media queries -->
-      <script type="text/javascript" src="assets/js/harvey.min.js"></script>
-      <!-- Waypoints - Load Elements on View -->
-      <script type="text/javascript" src="assets/js/waypoints.js"></script>
-      <!-- Facts Counter -->
-      <script type="text/javascript" src="assets/js/facts.js"></script>
-      <!-- MixItUp - Category Filter -->
-      <script type="text/javascript" src="assets/js/mixitup.js"></script>
-      <!-- Owl Carousel -->
-      <script type="text/javascript" src="assets/js/owl.min.js"></script>
-      <!-- Accordion -->
-      <script type="text/javascript" src="assets/js/accordion.js"></script>
-      <!-- Responsive Tabs -->
-      <script type="text/javascript" src="assets/js/responsive.js"></script>
-      <!-- Responsive Table -->
-      <script type="text/javascript" src="js/responsive.table.min.js"></script>
-      <!-- Masonry -->
-      <script type="text/javascript" src="assets/js/masonry.min.js"></script>
       <!-- Carousel Swipe -->
       <script type="text/javascript" src="assets/js/carousel.js"></script>
-      <!-- bxSlider -->
-      <script type="text/javascript" src="assets/js/bxslider.js"></script>
       <!-- Custom Scripts -->
       <script type="text/javascript" src="assets/js/main.js"></script>
    </body>
