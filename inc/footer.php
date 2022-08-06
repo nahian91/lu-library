@@ -85,7 +85,7 @@
             <div class="container">
                <div class="row">
                   <div class="footer-text col-md-12 text-center">
-                     <p>&copy; 2022. All rights reserved.</p>
+                     <p>&copy; 2022. All Rights Reserved. Developed by <a href="https://www.infinityflamesoft.com/" target="_blank">Infinity Flame Soft</a></p>
                   </div>
                </div>
             </div>
